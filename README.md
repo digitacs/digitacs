@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 With 10+ years of software engineering experience, I have worked as iOS, macOS, watchOS, Android application developer and as a Team Lead.
-- 🌱 I love to develop complex applications and am used to leading and taking initiative with a committed and dedicated attitude. I enjoy working with include Swift, Kotlin, Java, PHP and Python.
+- 🌱 I love to develop complex applications and am used to leading and taking initiative with a committed and dedicated attitude. I enjoy working with include Swift, Objective C, Kotlin, Java, PHP and Python.
