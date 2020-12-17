@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/rajafarooq/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[![dev.to badge](https://img.shields.io/badge/LinkedIn-rajafarooq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajafarooq/)
                                                                                               
 - 🔭 With 10+ years of software engineering experience, I have worked as iOS, macOS, watchOS, Android application developer and as a Team Lead.
 - 🌱 I love to develop complex applications and am used to leading and taking initiative with a committed and dedicated attitude. I enjoy working with include Swift, Objective C, Kotlin, Java, PHP and Python.
