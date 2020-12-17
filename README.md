@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 <!--
@@ -15,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![dev.to badge](https://img.shields.io/badge/LinkedIn-rajafarooq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajafarooq/)
+                                                                          
+
+
+[![dev.to badge](https://img.shields.io/badge/LinkedIn-rajafarooq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajafarooq/) ![dev.to badge](https://img.shields.io/badge/-macOS-black?style=flat&logo=apple) ![dev.to badge](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)
                                                                                               
 - 🔭 With 10+ years of software engineering experience, I have worked as iOS, macOS, watchOS, Android application developer and as a Team Lead.
 - 🌱 I love to develop complex applications and am used to leading and taking initiative with a committed and dedicated attitude. I enjoy working with include Swift, Objective C, Kotlin, Java, PHP and Python.
